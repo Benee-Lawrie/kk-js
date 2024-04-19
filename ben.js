@@ -1,1 +1,1 @@
-console.log("don't be afraid of the future of life")
+console.log("don't be afraid of the future of lifegit ")
